@@ -1,4 +1,4 @@
 # Embeded
 University Course project
 
-Note: FRDM-KL25Z board is used in this course.
+Note: FRDM-KL25Z is used in this course.
